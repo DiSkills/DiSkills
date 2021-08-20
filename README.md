@@ -33,3 +33,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+# Statistics
+![Counter0021 github stats](https://github-readme-stats.vercel.app/api?username=Counter0021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
