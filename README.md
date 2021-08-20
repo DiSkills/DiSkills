@@ -1,8 +1,8 @@
-## Hi! I'm a Python developer
-
-## Technology stack
+## Hi! I'm a Back-end developer
 
 <img alt="GIF" src="https://github.com/Counter0021/Counter0021/blob/master/code.gif?raw=true"/>
+
+## Technology stack
 
 ![Python]( 	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
