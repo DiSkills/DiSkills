@@ -36,3 +36,4 @@
 
 # Statistics
 ![Counter0021 github stats](https://github-readme-stats.vercel.app/api?username=Counter0021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Counter0021 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Counter0021&layout=compact&count_private=true&theme=gruvbox)
