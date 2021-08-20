@@ -2,7 +2,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://github.com/Counter0021/Counter0021/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Counter0021/Counter0021/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Back-end**
 
