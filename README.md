@@ -1,6 +1,6 @@
 ## Hey! I'm a Python Back-end developer
 
-<img alt="GIF" src="https://github.com/Counter0021/Counter0021/blob/master/code.gif?raw=true"/>
+<img alt="GIF" src="https://github.com/Anti-Counter021/Anti-Counter021/blob/master/code.gif?raw=true"/>
 
 ## Technology stack
 
