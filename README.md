@@ -1,19 +1,44 @@
 ## Hey! I'm a Python Back-end developer
 
-<img alt="GIF" src="https://github.com/Anti-Counter021/Anti-Counter021/blob/master/code.gif?raw=true"/>
+<a href="https://github.com/Anti-Counter021" target="_blank">
+    <img alt="GIF" src="https://github.com/Anti-Counter021/Anti-Counter021/blob/master/code.gif?raw=true"/>
+</a>
 
 ## Technology stack
 
 # Back-end
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=for-the-badge&logo=SqlAlchemy)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=for-the-badge&logo=Celery)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=for-the-badge&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+<a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
+</a>
+
+<a href="https://www.sqlalchemy.org/" target="_blank">
+    <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SqlAlchemy-FCA121?style=for-the-badge&logo=SqlAlchemy"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</a>
+
+<a href="https://docs.celeryq.dev/en/stable/index.html" target="_blank">
+    <img alt="Celery" src="https://img.shields.io/badge/-Celery-%2300C7B7?style=for-the-badge&logo=Celery"/>
+</a>
+
+<a href="https://redis.io/" target="_blank">
+    <img alt="Redis" src="https://img.shields.io/badge/-Redis-FCA121?style=for-the-badge&logo=Redis"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://www.selenium.dev/" target="_blank">
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
+</a>
 
 # Tools
 
