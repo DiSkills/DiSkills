@@ -29,15 +29,47 @@
 </a>
 
 <a href="https://redis.io/" target="_blank">
-    <img alt="Redis" src="https://img.shields.io/badge/-Redis-FCA121?style=for-the-badge&logo=Redis"/>
+    <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
+<a href="https://sqlite.org/index.html" target="_blank">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</a>
+
 <a href="https://www.selenium.dev/" target="_blank">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
+</a>
+
+[//]: # (<a href="https://www.elastic.co/elasticsearch/" target="_blank">)
+
+[//]: # (    <img alt="Elastic search" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://www.rabbitmq.com/" target="_blank">)
+
+[//]: # (    <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://www.ansible.com/" target="_blank">)
+
+[//]: # (    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://kubernetes.io/" target="_blank">)
+
+[//]: # (    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>)
+
+[//]: # (</a>)
+
+<a href="https://github.com/features/actions" target="_blank">
+    <img alt="GitHub actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </a>
 
 ## Tools
@@ -96,4 +128,8 @@
 
 <a href="https://github.com/Anti-Counter021" target="_blank">
     <img alt="GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anti-Counter021&layout=compact&count_private=true&theme=blue-green"/>
+</a>
+
+<a href="https://github.com/Anti-Counter021" target="_blank">
+    <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anti-Counter021&theme=blue-green&include_all_commits=true&count_private=true"/>
 </a>
