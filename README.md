@@ -81,6 +81,14 @@
 ## Statistics
 
 <a href="https://github.com/Anti-Counter021" target="_blank">
+    <img alt="Stars" src="https://img.shields.io/github/stars/Anti-Counter021?style=social"/>
+</a>
+
+<a href="https://github.com/Anti-Counter021?tab=followers" target="_blank">
+    <img alt="Followers" src="https://img.shields.io/github/followers/Anti-Counter021?style=social"/>
+</a>
+
+<a href="https://github.com/Anti-Counter021" target="_blank">
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anti-Counter021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
