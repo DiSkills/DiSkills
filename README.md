@@ -1,12 +1,12 @@
-## Hey! I'm a Python Back-end developer
+# Hey! I'm a Python Back-end developer
 
 <a href="https://github.com/Anti-Counter021" target="_blank">
     <img alt="GIF" src="https://github.com/Anti-Counter021/Anti-Counter021/blob/master/code.gif?raw=true"/>
 </a>
 
-## Technology stack
+# Technology stack
 
-# Back-end
+## Back-end
 
 <a href="https://www.python.org/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
@@ -40,7 +40,7 @@
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 </a>
 
-# Tools
+## Tools
 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
@@ -78,7 +78,7 @@
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </a>
 
-# Statistics
+## Statistics
 
 <a href="https://github.com/Anti-Counter021" target="_blank">
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anti-Counter021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
