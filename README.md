@@ -91,9 +91,9 @@
 <br/>
 
 <a href="https://github.com/Anti-Counter021" target="_blank">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anti-Counter021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anti-Counter021&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/Anti-Counter021" target="_blank">
-    <img alt="GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anti-Counter021&layout=compact&count_private=true&theme=gruvbox"/>
+    <img alt="GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anti-Counter021&layout=compact&count_private=true&theme=blue-green"/>
 </a>
