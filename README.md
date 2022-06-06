@@ -127,9 +127,9 @@
 </a>
 
 <a href="https://github.com/Anti-Counter021" target="_blank">
-    <img alt="GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anti-Counter021&layout=compact&count_private=true&theme=blue-green"/>
+    <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anti-Counter021&theme=blue-green&include_all_commits=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/Anti-Counter021" target="_blank">
-    <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anti-Counter021&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img alt="GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anti-Counter021&layout=compact&count_private=true&theme=blue-green"/>
 </a>
