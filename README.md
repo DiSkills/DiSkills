@@ -32,6 +32,10 @@
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 </a>
 
+<a href="https://www.rabbitmq.com/" target="_blank">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</a>
+
 <a href="https://www.postgresql.org/" target="_blank">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
@@ -47,12 +51,6 @@
 [//]: # (<a href="https://www.elastic.co/elasticsearch/" target="_blank">)
 
 [//]: # (    <img alt="Elastic search" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>)
-
-[//]: # (</a>)
-
-[//]: # (<a href="https://www.rabbitmq.com/" target="_blank">)
-
-[//]: # (    <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>)
 
 [//]: # (</a>)
 
