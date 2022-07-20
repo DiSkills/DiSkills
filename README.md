@@ -52,6 +52,14 @@
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 </a>
 
+<a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white"/>
+</a>
+
+<a href="https://www.nginx.com/" target="_blank">
+    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</a>
+
 [//]: # (<a href="https://www.elastic.co/elasticsearch/" target="_blank">)
 
 [//]: # (    <img alt="Elastic search" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>)
@@ -69,10 +77,6 @@
 [//]: # (    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>)
 
 [//]: # (</a>)
-
-<a href="https://github.com/features/actions" target="_blank">
-    <img alt="GitHub actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</a>
 
 ## Tools
 
@@ -92,10 +96,6 @@
     <img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white"/>
-</a>
-
 <a href="https://www.postman.com/" target="_blank">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FCA121?style=for-the-badge&logo=postman"/>
 </a>
@@ -108,8 +108,8 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.nginx.com/" target="_blank">
-    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<a href="https://github.com/features/actions" target="_blank">
+    <img alt="GitHub actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </a>
 
 ## Statistics
