@@ -10,7 +10,7 @@ I am 17 years old and I am in 11th grade. Programming has been my favorite pasti
 small commercial experience (2 months). Now I'm working on my final school project: "Application of design patterns on
 the example of an online store."
 
-# Social networks
+## Social networks
 
 <a href="https://www.linkedin.com/in/anti-counter021/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
