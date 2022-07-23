@@ -1,4 +1,4 @@
-# Hey! I'm a Python Back-end developer
+# Hello! I am a Python backend developer
 
 <a href="https://github.com/Anti-Counter021" target="_blank">
     <img alt="GIF" src="https://github.com/Anti-Counter021/Anti-Counter021/blob/master/code.gif?raw=true"/>
