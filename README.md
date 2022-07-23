@@ -1,7 +1,23 @@
 # Hello! I am a Python backend developer
 
+# About
+
+I am 17 years old and I am in 11th grade. Programming has been my favorite pastime for almost 2 years now. There is a
+small commercial experience (2 months). Now I'm working on my final school project: "Application of design patterns on
+the example of an online store."
+
 <a href="https://github.com/Anti-Counter021" target="_blank">
     <img alt="GIF" src="https://github.com/Anti-Counter021/Anti-Counter021/blob/master/code.gif?raw=true"/>
+</a>
+
+# Social networks
+
+<a href="https://www.linkedin.com/in/anti-counter021/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://telegram.me/Anti_Counter021">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 # Technology stack
