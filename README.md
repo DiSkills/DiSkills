@@ -1,18 +1,18 @@
 # Hello! I am a Python backend developer
 
-<a href="https://github.com/Anti-Counter021" target="_blank">
-    <img alt="GIF" src="https://github.com/Anti-Counter021/Anti-Counter021/blob/master/code.gif?raw=true"/>
+<a href="https://github.com/DiSkills" target="_blank">
+    <img alt="GIF" src="https://github.com/DiSkills/DiSkills/blob/master/diskills.gif?raw=true"/>
 </a>
 
 ## About
 
-I am 17 years old and I am in 11th grade. Programming has been my favorite pastime for almost 2 years now. There is a
+I am 17 years old, and I am in 11th grade. Programming has been my favorite pastime for almost 2 years now. There is a
 small commercial experience (2 months). Now I'm working on my final school project: "Application of design patterns on
 the example of an online store."
 
 ## Social networks
 
-<a href="https://www.linkedin.com/in/anti-counter021/" target="_blank">
+<a href="https://www.linkedin.com/in/diskills/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -130,24 +130,24 @@ the example of an online store."
 
 ## Statistics
 
-<a href="https://github.com/Anti-Counter021" target="_blank">
-    <img alt="Stars" src="https://img.shields.io/github/stars/Anti-Counter021?style=social"/>
+<a href="https://github.com/DiSkills" target="_blank">
+    <img alt="Stars" src="https://img.shields.io/github/stars/DiSkills?style=social"/>
 </a>
 
-<a href="https://github.com/Anti-Counter021?tab=followers" target="_blank">
-    <img alt="Followers" src="https://img.shields.io/github/followers/Anti-Counter021?style=social"/>
+<a href="https://github.com/DiSkills?tab=followers" target="_blank">
+    <img alt="Followers" src="https://img.shields.io/github/followers/DiSkills?style=social"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/Anti-Counter021" target="_blank">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anti-Counter021&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/DiSkills" target="_blank">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DiSkills&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </a>
 
-<a href="https://github.com/Anti-Counter021" target="_blank">
-    <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anti-Counter021&theme=blue-green&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/DiSkills" target="_blank">
+    <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DiSkills&theme=blue-green&include_all_commits=true&count_private=true"/>
 </a>
 
-<a href="https://github.com/Anti-Counter021" target="_blank">
-    <img alt="GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anti-Counter021&layout=compact&count_private=true&theme=blue-green"/>
+<a href="https://github.com/DiSkills" target="_blank">
+    <img alt="GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiSkills&layout=compact&count_private=true&theme=blue-green"/>
 </a>
