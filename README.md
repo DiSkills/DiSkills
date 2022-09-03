@@ -12,7 +12,7 @@ the example of an online store."
 
 ## Social networks
 
-<a href="https://www.linkedin.com/in/anti-counter021/" target="_blank">
+<a href="https://www.linkedin.com/in/DiSkills/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
