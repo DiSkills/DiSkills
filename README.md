@@ -100,6 +100,10 @@ the example of an online store."
     <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 </a>
 
+<a href="https://neovim.io/" target="_blank">
+    <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+</a>
+
 <a href="https://ubuntu.com/" target="_blank">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </a>
