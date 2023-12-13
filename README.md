@@ -6,9 +6,7 @@
 
 ## About
 
-I am 17 years old, and I am in 11th grade. Programming has been my favorite pastime for almost 2 years now. There is a
-small commercial experience (2 months). Now I'm working on my final school project: "Application of design patterns on
-the example of an online store."
+I am 18 years old, I am a student at KubSU. I am studying at the specialty 02.03.03 Mathematical Support and Management of Information Systems. Profile: Software Systems Development Technologies. I love Computer Science and mathematics. While studying at school I was able to gain some experience in commercial activities (2 months). I am currently studying Mathematics and Computer Science.
 
 ## Social networks
 
@@ -130,6 +128,12 @@ the example of an online store."
 
 <a href="https://github.com/features/actions" target="_blank">
     <img alt="GitHub actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</a>
+
+## Other technologies
+
+<a href="https://google.github.io/styleguide/cppguide.html" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </a>
 
 ## Statistics
