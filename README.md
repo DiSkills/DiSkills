@@ -6,7 +6,7 @@
 
 ## About
 
-I am 18 years old, I am a student at KubSU. I am studying at the specialty 02.03.03 Mathematical Support and Management of Information Systems. Profile: Software Systems Development Technologies. I love Computer Science and mathematics. While studying at school I was able to gain some experience in commercial activities (2 months). I am currently studying Mathematics and Computer Science.
+I am a student at KubSU. Profile: Software Systems Development Technologies. Professional interests: Science and Mathematics.
 
 ## Social networks
 
@@ -30,73 +30,15 @@ I am 18 years old, I am a student at KubSU. I am studying at the specialty 02.03
     <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
 </a>
 
-<a href="https://www.sqlalchemy.org/" target="_blank">
-    <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SqlAlchemy-FCA121?style=for-the-badge&logo=SqlAlchemy"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</a>
-
-<a href="https://docs.celeryq.dev/en/stable/index.html" target="_blank">
-    <img alt="Celery" src="https://img.shields.io/badge/-Celery-%2300C7B7?style=for-the-badge&logo=Celery"/>
-</a>
-
-<a href="https://redis.io/" target="_blank">
-    <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
-</a>
-
-<a href="https://www.rabbitmq.com/" target="_blank">
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-</a>
-
 <a href="https://www.postgresql.org/" target="_blank">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-<a href="https://sqlite.org/index.html" target="_blank">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</a>
-
-<a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
 
-<a href="https://www.nginx.com/" target="_blank">
-    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</a>
-
-[//]: # (<a href="https://www.elastic.co/elasticsearch/" target="_blank">)
-
-[//]: # (    <img alt="Elastic search" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>)
-
-[//]: # (</a>)
-
-[//]: # (<a href="https://www.ansible.com/" target="_blank">)
-
-[//]: # (    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>)
-
-[//]: # (</a>)
-
-[//]: # (<a href="https://kubernetes.io/" target="_blank">)
-
-[//]: # (    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>)
-
-[//]: # (</a>)
-
 ## Tools
-
-<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-</a>
 
 <a href="https://neovim.io/" target="_blank">
     <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
@@ -106,34 +48,12 @@ I am 18 years old, I am a student at KubSU. I am studying at the specialty 02.03
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </a>
 
-<a href="https://ubuntu.com/" target="_blank">
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</a>
-
-<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
-    <img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FCA121?style=for-the-badge&logo=postman"/>
-</a>
-
 <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
 </a>
 
-<a href="https://github.com/" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://github.com/features/actions" target="_blank">
     <img alt="GitHub actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</a>
-
-## Other technologies
-
-<a href="https://google.github.io/styleguide/cppguide.html" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </a>
 
 ## Statistics
