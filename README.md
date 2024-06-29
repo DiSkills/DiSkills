@@ -1,4 +1,4 @@
-# Hello! I am a Python backend developer
+# Hello! I am a Python Backend Developer
 
 <a href="https://github.com/DiSkills" target="_blank">
     <img alt="GIF" src="https://github.com/DiSkills/DiSkills/blob/master/diskills.gif?raw=true"/>
