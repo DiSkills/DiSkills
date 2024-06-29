@@ -73,9 +73,5 @@ I am a student at KubSU. Profile: Software Systems Development Technologies. Pro
 </a>
 
 <a href="https://github.com/DiSkills" target="_blank">
-    <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DiSkills&theme=blue-green&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/DiSkills" target="_blank">
     <img alt="GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiSkills&layout=compact&count_private=true&theme=blue-green"/>
 </a>
