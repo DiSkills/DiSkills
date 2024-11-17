@@ -1,5 +1,7 @@
 # Hello! I am a System Software Developer
 
+![gif](./tux-linux-penguin.gif)
+
 ## About me
 I am a student at KubSU. Profile: Software Systems Development Technologies.\
 Professional interests: Mathematics, Operating systems, Compilers
