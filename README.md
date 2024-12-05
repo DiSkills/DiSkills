@@ -26,6 +26,4 @@ gcc, gdb, make, strace, valgrind
 
 ## Statistics
 
-![DiSkills GitHub stats](https://github-readme-stats.vercel.app/api?username=DiSkills&show_icons=true&theme=gruvbox&rank_icon=github&exclude_repo=DiSkills)
-\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiSkills&layout=donut&theme=gruvbox&hide=html)
