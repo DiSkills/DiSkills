@@ -7,8 +7,8 @@ I am a student at KubSU. Profile: Software Systems Development Technologies.\
 Professional interests: Mathematics, Operating systems, Compilers
 
 ## Social networks
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DiSkills/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DiSkillsDeveloper)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DiSkillsDeveloper)\
+[![LinkedIn](socials.gif)](https://www.linkedin.com/in/DiskillsDeveloper/)
 
 # Technology stack
 
