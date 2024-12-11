@@ -1,14 +1,13 @@
 # Hello! I am a System Software Developer
 
-![gif](./tux-linux-penguin.gif)
+![gif](tux-linux-penguin.gif)
 
 ## About me
 I am a student at KubSU. Profile: Software Systems Development Technologies.\
 Professional interests: Mathematics, Operating systems, Compilers
 
 ## Social networks
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DiSkillsDeveloper)\
-[![LinkedIn](socials.gif)](https://www.linkedin.com/in/DiskillsDeveloper/)
+[![Telegram](telegram.gif)](https://t.me/DiSkillsDeveloper)
 
 # Technology stack
 
