@@ -23,6 +23,7 @@ NASM
 \
 gcc, gdb, make, strace, valgrind
 
-## Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiSkills&layout=donut&theme=gruvbox&hide=html)
+# Future projects
+- [ ] Shell
+- [ ] SMTP server
+- [ ] HTTP server
