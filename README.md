@@ -1,6 +1,7 @@
 # Hello! I am a System Software Developer
 
 ![gif](tux-linux-penguin.gif)
+![LeetCode](https://leetcard.jacoblin.cool/diskills-dev?theme=nord)
 
 ## About me
 I am a student at KubSU. Profile: Software Systems Development Technologies.\
@@ -22,8 +23,3 @@ NASM
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 \
 gcc, gdb, make, strace, valgrind
-
-# Future projects
-- [ ] Shell
-- [ ] SMTP server
-- [ ] HTTP server
