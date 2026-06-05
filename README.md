@@ -1,9 +1,10 @@
 # Hello! I am a System Software Developer
 
 ![gif](tux-linux-penguin.gif)
-[![LeetCode](https://leetcard.jacoblin.cool/diskills-dev?theme=nord)](https://leetcode.com/u/diskills-dev)
 
 ## About me
+![vibe](vibe.jpg)
+
 I am a student at KubSU. Profile: Software Systems Development Technologies.\
 Professional interests: Mathematics, Operating systems, Compilers
 
